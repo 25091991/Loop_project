@@ -1,7 +1,7 @@
 <template>
 <div>
     <Header />
-    <h1> Hello Home Page</h1>
+    <h1> Hello Home Page test</h1>
     <Team />
     <Footer />
 </div>
