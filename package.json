@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "header.vue": "^0.0.1",
+    "vue": "^3.2.26"
+  }
+}
